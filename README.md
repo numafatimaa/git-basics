@@ -2,7 +2,7 @@
 
 ## Team members
 
-(Delete this line and replace it with your information!)
+Numa Fatima nfatima2@haw.iit.edu
 
 ## Git & GitHub
 
